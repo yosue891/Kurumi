@@ -18,4 +18,5 @@ await conn.sendFile(m.chat, data5.icon, 'thumbnail.jpg', response, m, null, fake
 handler.help = ['apk *<nombre>*']
 handler.tags = ['dl']
 handler.command = /^(apk|modapk|dapk2|aptoide|aptoidedl)$/i;
+handler.estrellas = 12
 export default handler;
