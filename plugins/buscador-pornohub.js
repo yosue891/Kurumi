@@ -51,6 +51,6 @@ async function searchPornhub(search) {
 handler.help = ['pornohubdl <link>]
 handler.tag = ['buscador']
 handler.command = ['pornohubdl', 'phdl']
-handler.estrellas = 5;
+handler.estrellas = 8;
 handler.premium = true;
 export default handler;
