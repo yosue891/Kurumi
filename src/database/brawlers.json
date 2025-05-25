@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Hinata Kawai",
+        "gender": "Mujer",
+        "value": "9999",
+        "source": "Legendario",
+        "img": "https://files.catbox.moe/dvjrxp.jpg",
+        "user": null,
+        "status": "Libre"
+    },
+    {
+        "id": "2",
+        "name": "Hinata Gop",
+        "gender": "Mujer",
+        "value": "347",
+        "source": "epico",
+        "img": "https://files.catbox.moe/lhen7g.jpg",
+        "user": null,
+        "status": "Libre"
+    }
+]
