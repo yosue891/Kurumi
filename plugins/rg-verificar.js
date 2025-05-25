@@ -67,9 +67,9 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         }
     }
 
-    let regbot = `┏━━━━━━━━━━━━━━━━━━━━⬣
+    let regbot = `┏━━━━━━━━━━━━━━⬣
 ┃⋄ *🎀 Registro - ZeroTwo*
-┗━━━━━━━━━━━━━━━━━━━━⬣
+┗━━━━━━━━━━━━━━⬣
 •┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•
 「✧」Nombre: ${name}
 「🎂」Edad: ${age} años
@@ -90,7 +90,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
             externalAdReply: {
                 title: '⊱『🦁 Registrado/a 』⊰',
                 body: dev,
-                thumbnailUrl: 'https://files.catbox.moe/ojsmx7.jpeg',
+                thumbnailUrl: 'https://files.catbox.moe/bt4jrm.jpg',
                 sourceUrl: publi,
                 mediaType: 1,
                 showAdAttribution: true,
