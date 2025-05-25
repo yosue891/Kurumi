@@ -55,7 +55,7 @@ setTimeout(resolve, 1000)
 }
 let timestamp = speed()
 let latensi = speed() - timestamp
-let CrowBot = `╭─⬣「 *Info De REM-BOT* 」⬣\n`
+let CrowBot = `╭─⬣「 *Info De ZERO-BOT* 」⬣\n`
 CrowBot += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
 CrowBot += `│ 💖 *Prefijo* : [  ${usedPrefix}  ]\n`
 CrowBot += `│ 🌹 *Total Plugins* : ${totalf}\n`
@@ -70,7 +70,7 @@ CrowBot += `│ 🌹 *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStat
 CrowBot += `│ 🌹 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
 CrowBot += `│ 🤧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
 CrowBot += `╰─⬣\n\n`
-CrowBot += `╭─⬣「 *Chats De Rembot* 」⬣\n`
+CrowBot += `╭─⬣「 *Chats De Zerobot* 」⬣\n`
 CrowBot += `│ 💙 *${groupsIn.length}* Chats en Grupos\n`
 CrowBot += `│ 🫠 *${groupsIn.length}* Grupos Unidos\n`
 CrowBot += `│ 🤧 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
@@ -87,7 +87,7 @@ await conn.reply(m.chat, CrowBot, fkontak, { contextInfo: { mentionedJid: [owner
 handler.help = ['infobot']
 handler.tags = ['main']
 handler.command = ['info', 'infobot']
-handler.estrellas = 5;
+handler.estrellas = 0;
 
 export default handler
 
