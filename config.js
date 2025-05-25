@@ -26,9 +26,9 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【✧】𝐙𝐞𝐫𝐨𝐓𝐰𝐨࿐'
-global.botname = '(✦◠‿◠)𝐙𝐞𝐫𝐨𝐓𝐰𝐨'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🌟★ ׄ ꒱ 𝐙𝐞𝐫𝐨𝐓𝐰𝐨 ୭'
+global.packname = '☔ 𝒁𝒆𝒓𝒐𝑻𝒘𝒐 ᵕ̈♡'
+global.botname = 'ʕ•́ᴥ•̀ʔっ 𝒁𝒆𝒓𝒐𝑻𝒘𝒐 ♡'
+global.wm = '🌷꒷ 𝒁𝒆𝒓𝒐𝑻𝒘𝒐 ꒦🌸'
 global.author = '꒷꒦𖥻𝐁𝐲 𝐒𝐘𝐀 𝐓𝐄𝐀𝐌𓆪'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ SYA TEAM'
 global.errorm = '𝐄𝐫𝐫𝐨𝐫: ${error.message}'
