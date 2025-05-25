@@ -80,16 +80,14 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     const videoInfo = search.all[0];
     const { title, thumbnail, timestamp, views, ago, url } = videoInfo;
     const vistas = formatViews(views);
-    const infoMessage = `｡♡ﾟ･🌸 𝙕𝙚𝙧𝙤 𝙏𝙬𝙤 𝘽𝙤𝙩 🌸｡♡ﾟ
+    const infoMessage = `> ｡･ﾟﾟ✧･ﾟﾟ･｡🌸 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐 𝑩𝒐𝒕 🌸｡･ﾟﾟ✧･ﾟﾟ･｡
 
-🍓 *Título:* ${title}
-⏳ *Duración:* ${timestamp}
-✨ *Vistas:* ${vistas}
-🍭 *Canal:* ${videoInfo.author.name || 'Desconocido'}
-🗓️ *Publicado:* ${ago}
-🔗 *Enlace:* ${url}
-
-˗ˏˋ 𝙎𝙞𝙚𝙢𝙥𝙧𝙚 𝙘𝙤𝙣 𝙩𝙞𝙜𝙤... 𝙕𝙚𝙧𝙤 𝙏𝙬𝙤 ˎˊ˗`;
+> 🎀 *Nombre del Video:* ${title}
+> ⏰ *Tiempo:* ${timestamp}
+> 👀 *Vistas:* ${vistas}
+> 🎤 *Subido por:* ${videoInfo.author.name || 'Desconocido'}
+> 🗓️ *Fecha de publicación:* ${ago}
+> 🔗 *URL:* ${url}`;
     const thumb = (await conn.getFile(thumbnail))?.data;
 
     const JT = {
