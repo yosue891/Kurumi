@@ -38,7 +38,7 @@ handler.help = ['apostar *<cantidad>*']
 handler.tags = ['fun']
 handler.command = /^(apostar|casino)$/i
 handler.register = true
-handler.estrellas = 4;
+handler.estrellas = 1;
 handler.fail = null
 export default handler
 
