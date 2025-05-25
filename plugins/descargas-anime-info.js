@@ -77,5 +77,5 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
 }
 
 handler.command = ['animeinfo', 'animei'];
-handler.estrellas = 7;
+handler.estrellas = 1;
 export default handler;
