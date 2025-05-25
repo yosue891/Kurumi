@@ -396,7 +396,7 @@ global.db.data.users[m.sender].spam = new Date * 1
                         }
                     }
                     if (m.estrellas)
-                        conn.reply(m.chat, `Utilizaste *${+m.estrellas}* ⭐️`, m, fake)
+                        conn.reply(m.chat, `🌷 Utilizaste *${+m.estrellas}* ⭐️`, m, fake)
                 }
                 break
             }
