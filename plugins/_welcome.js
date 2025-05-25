@@ -19,10 +19,10 @@ export async function before(m, { conn, participants, groupMetadata }) {
     }
 
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
-    let bienvenida = `┌─❦ 𝐑𝐞𝐦𝐛𝐨𝐭\n│「 Welcome 」\n└┬❦ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │😼 ${welmss}\n   │😼  ${groupMetadata.subject}\n   └───────────────┈ ⳹\n> ${dev}`
+    let bienvenida = `┌─❦ 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨\n│「 Welcome 」\n└┬❦ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │😼 ${welmss}\n   │😼  ${groupMetadata.subject}\n   └───────────────┈ ⳹\n> ${dev}`
       await conn.sendMessage(m.chat, { image: img, caption: bienvenida, mentions: [who] }, { quoted: estilo })
     } else if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_REMOVE || m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_LEAVE) {
-     let bye = `┌─❦ 𝐑𝐞𝐦𝐛𝐨𝐭\n│「 ADIOS 👋 」\n└┬❦ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │😒  Se fue\n   │😒 Jamás te quisimos aquí inutil\n   └───────────────┈ ⳹\n> ${dev}`
+     let bye = `┌─❦ 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨\n│「 ADIOS 👋 」\n└┬❦ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │😒  Se fue\n   │😒 Jamás te quisimos aquí inutil\n   └───────────────┈ ⳹\n> ${dev}`
       await conn.sendMessage(m.chat, { image: img, caption: bye, mentions: [who] }, { quoted: estilo })
     }
   }
