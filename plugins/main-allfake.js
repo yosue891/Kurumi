@@ -106,9 +106,9 @@ global.packsticker = `┊ 𝐒𝐘𝐀 𝐓𝐞𝐚𝐦\n↳https://github.com/A
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
 //Id Channel
-global.idchannel = '0029VbAXuUtB4hdYWC6m2R1h@newsletter'
-global.canalIdM = ["0029VbAXuUtB4hdYWC6m2R1h@newsletter", "0029VbAXuUtB4hdYWC6m2R1h@newsletter", "0029VbAXuUtB4hdYWC6m2R1h@newsletter"]
-global.canalNombreM = ["🦊 𝐓𝐨𝐛𝐢 | 𝐤𝐚𝐫𝐚 🦊", "✯ 𝗥𝗲𝗺𝗯𝗼𝘁 - 𝐂𝐡𝐚𝐧𝐞𝐥  ✯", "⏤͟͟͞͞☆ 𝗥𝗲𝗺𝗯𝗼𝘁 𝐓𝐞𝐬𝐭 『𝑍𝑜𝑟𝑜』"]
+global.idchannel = '120363402846939411@newsletter'
+global.canalIdM = ["120363402846939411@newsletter", "120363402846939411@newsletter", "120363402846939411@newsletter"]
+global.canalNombreM = ["『 💠 𝗦𝗬𝗔 𝗧𝗘𝗔𝗠 💠 』× 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐", "✘ 𝙎𝙔𝘼 𝙓 𝙕𝙀𝙍𝙊 𝙏𝙒𝙊 | CHANNEL ✘", "♛ 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝙎𝙔𝘼 𝙏𝙀𝘼𝙈 ♛", "⚡『 𝙕𝙀𝙍𝙊𝟮 』• 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 ⚡ SYA Team", "꧁༒☬ 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 ☬ SYA 𝗧𝗲𝗮𝗺 ༒꧂", "✦ 𝚂𝚈𝙰 𝚃𝙴𝙰𝙼 ✦ 𓆩𝙕𝙚𝙧𝙤 𝙏𝙬𝙤𓆪"]
 global.channelRD = await getRandomChannel()
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
