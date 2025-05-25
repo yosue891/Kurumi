@@ -35,7 +35,7 @@ const { version } = await fetchLatestBaileysVersion()
 const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Rembot Sub-Bot', 'Edge', '2.0.0'],
+browser: ['ULTRA ZeroTWO Sub-Bot', 'Edge', '2.0.0'],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -145,7 +145,7 @@ serbot()
 handler.help = ["serbot"]
 handler.tags = ["serbot"]
 handler.command = ["serbot", "jadibot", "qr", "serbotqr"]
-handler.estrellas = 13;
+handler.estrellas = 1;
 // handler.register = true
 export default handler
 function sleep(ms) {
