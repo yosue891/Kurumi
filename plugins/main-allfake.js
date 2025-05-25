@@ -116,12 +116,9 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
   
 global.icono = [ 
-'https://files.catbox.moe/zmaoi0.jpeg',
-'https://files.catbox.moe/3x3hyt.jpeg',
-'https://files.catbox.moe/bifa1c.jpeg',
-'https://files.catbox.moe/vsk6zd.jpeg',
-'https://files.catbox.moe/xorpj9.jpeg',
-'https://files.catbox.moe/p71j48.jpeg',
+'https://files.catbox.moe/vm1tjm.jpg',
+'https://files.catbox.moe/3ypbza.jpg',
+'https://files.catbox.moe/nnz4de.jpg',
 ].getRandom()
 
 global.urls = [
