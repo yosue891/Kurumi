@@ -15,8 +15,8 @@ let muptime = clockString(_muptime)
 const chats = Object.entries(conn.chats).filter(([id, data]) => id && data.isChats)
 const groupsIn = chats.filter(([id]) => id.endsWith('@g.us')) 
 const used = process.memoryUsage()
-let Crow = `╭─⬣「 *Estado De Rembot* 」⬣\n`
-Crow += `│ 💙 *Creador ∙* Tobixkara\n`
+let Crow = `╭─⬣「 *Estado De Zero* 」⬣\n`
+Crow += `│ 💙 *Creadores ∙* Wirk, Maycol, Yosue T\n`
 Crow += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
 Crow += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
 Crow += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
@@ -29,7 +29,7 @@ await conn.sendFile(m.chat, pp, 'nino.jpg', Crow, fkontak, null, rcanal)
 handler.help = ['status']
 handler.tags = ['info']
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
-handler.estrellas = 5;
+handler.estrellas = 0;
 handler.register = true
 export default handler
 
