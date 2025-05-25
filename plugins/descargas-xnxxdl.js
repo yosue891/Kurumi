@@ -43,7 +43,7 @@ handler.command = ['xnxxdl'];
 handler.tag = ['descargas'];
 handler.help = ['xnxxdl'];
 handler.register = true;
-handler.estrellas = 8;
+handler.estrellas = 11;
 handler.group = false;
 export default handler;
 
