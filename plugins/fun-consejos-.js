@@ -15,7 +15,7 @@ conn.reply(m.chat, `*┏━_͜͡-͜͡-͜͡-͜͡-͜͡-͜͡-͜͡⚘-͜͡-͜͡-͜͡
 handler.help = ['consejo']
 handler.tags = ['fun']
 handler.command = ['consejo']
-handler.estrellas = 4;
+handler.estrellas = 2;
 handler.fail = null
 handler.exp = 0
 
