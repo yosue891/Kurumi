@@ -106,8 +106,8 @@ global.packsticker = `┊ 𝐒𝐘𝐀 𝐓𝐞𝐚𝐦\n↳https://github.com/A
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
 //Id Channel
-global.idchannel = '120363319651994475@newsletter'
-global.canalIdM = ["120363224371664828@newsletter", "120363319651994475@newsletter", "120363224371664828@newsletter"]
+global.idchannel = '0029VbAXuUtB4hdYWC6m2R1h@newsletter'
+global.canalIdM = ["0029VbAXuUtB4hdYWC6m2R1h@newsletter", "0029VbAXuUtB4hdYWC6m2R1h@newsletter", "0029VbAXuUtB4hdYWC6m2R1h@newsletter"]
 global.canalNombreM = ["🦊 𝐓𝐨𝐛𝐢 | 𝐤𝐚𝐫𝐚 🦊", "✯ 𝗥𝗲𝗺𝗯𝗼𝘁 - 𝐂𝐡𝐚𝐧𝐞𝐥  ✯", "⏤͟͟͞͞☆ 𝗥𝗲𝗺𝗯𝗼𝘁 𝐓𝐞𝐬𝐭 『𝑍𝑜𝑟𝑜』"]
 global.channelRD = await getRandomChannel()
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
