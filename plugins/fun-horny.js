@@ -32,6 +32,6 @@ handler.help = ['horny'];
 handler.tags = ['fun'];
 handler.command = /^(cekhorny|horny)$/i;
 handler.group = true;
-handler.estrellas = 2;
+handler.estrellas = 0;
 
 export default handler;
