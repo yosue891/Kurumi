@@ -12,11 +12,11 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
     let list = [
         {
             displayName: "Wirk",
-            vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Wirk\nitem1.TEL;waid=50493736293:50493736293\nitem1.X-ABLabel:Número\nEND:VCARD`
+            vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Wirk\nitem1.TEL;waid=50493732693:50493736293\nitem1.X-ABLabel:Número\nEND:VCARD`
         },
         {
             displayName: "Yosue",
-            vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Yosue\nitem1.TEL;waid=584242773183:584242773183\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: yosueortega@email.com\nitem2.X-ABLabel:Email\nitem3.URL:https://whatsapp.com/channel/0029VbAXuUtB4hdYWC6m2R1h\nitem3.X-ABLabel:Canal\nitem4.ADR:;;Perú;;;;\nitem4.X-ABLabel:Región\nEND:VCARD`
+            vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Yosue\nitem1.TEL;waid=584242773183:584242773183\nitem1.X-ABLabel:Número\nEND:VCARD`
         },
         {
             displayName: "Maycol",
