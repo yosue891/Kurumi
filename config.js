@@ -9,19 +9,13 @@ import moment from 'moment-timezone'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.owner = [
-   ['527421168105', 'Creador Tobi💙', true],
-   ['595994384940', 'Comprador', true],
-   ['5212731590195', 'Gestion White', true],
-   ['584148256527', 'Colaborador Diomar', true],
-   ['5491133980616', 'Kara', true],
-   ['51971867199', 'Dev Senna', true],
-   ['584241836217', 'Dev Prak', true],
-   ['519168382008', 'Dev Darkcore', true],
-   ['573215751237', 'CrowBot OFC1', true],
+   ['584242773183', 'Creador Yosue💙', true],
+   ['50493732693', 'Creador Wirk 🐊', true],
+   ['51921826291', 'Creador Maycol 👻', true],
 ]
 
 global.creadorbot = [
-   ['527421168105', 'Tobi', true],
+   ['50493059810', 'Wirk', true],
 ]
   
 
@@ -32,24 +26,23 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【✧】𝐑𝐞𝐦𝐁𝐨𝐭࿐'
-global.botname = '(✦◠‿◠)𝐑𝐞𝐦𝐁𝐨𝐭'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🌟★ ׄ ꒱ 𝐑𝐞𝐦𝐁𝐨𝐭 ୭'
-global.author = '꒷꒦𖥻𝐁𝐲 𝑻𝒐𝒃𝒊𓆪'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Kara Team'
+global.packname = '【✧】𝐙𝐞𝐫𝐨𝐓𝐰𝐨࿐'
+global.botname = '(✦◠‿◠)𝐙𝐞𝐫𝐨𝐓𝐰𝐨'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🌟★ ׄ ꒱ 𝐙𝐞𝐫𝐨𝐓𝐰𝐨 ୭'
+global.author = '꒷꒦𖥻𝐁𝐲 𝐒𝐘𝐀 𝐓𝐄𝐀𝐌𓆪'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ SYA TEAM'
 global.errorm = '𝐄𝐫𝐫𝐨𝐫: ${error.message}'
 global.errorm2 = '✰ 𝐀 𝐎𝐜𝐮𝐫𝐫𝐢𝐝𝐨 𝐔𝐧 𝐄𝐫𝐫𝐨𝐫, 𝐕𝐮𝐞𝐥𝐯𝐞 𝐌𝐚𝐬 𝐓𝐚𝐫𝐝𝐞 (৹˃̵﹏˂̵৹)'
 global.resp = '𝐀𝐪𝐮𝐢 𝐓𝐢𝐞𝐧𝐞 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 〜(^∇^〜)'
-global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.nombrebot = '𝐑𝐞𝐦𝐁𝐨𝐭'
-global.textbot = `༻𝐑𝐞𝐦 - 𝐁𝐨𝐭༺`
+global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
+global.nombrebot = '𝐙𝐞𝐫𝐨𝐓𝐰𝐨'
+global.textbot = '༻𝐙𝐞𝐫𝐨 - 𝐓𝐰𝐨༺'
 global.vs = '2.1.0'
-global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
-
+global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Set De Rem-Bot
 
-global.welmss = 'Bienvenido a'
+global.welmss = 'Bienvenid@ a'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -63,16 +56,16 @@ global.catalogo = fs.readFileSync('./storage/img/catalogo1.jpg')
 global.crowurl = fs.readFileSync('./storage/img/crowurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-global.mashach = 'https://whatsapp.com/channel/0029VaQC2KoEquiMvsPDBH3Z'
-global.mashac = 'wa.me/527421168105*/n• *wa.me/5224312686*/n• *wa.me/5055786568*'
-global.repobot = 'https://github.com/TOBI-12'
+global.mashach = 'https://whatsapp.com/channel/0029VbAXuUtB4hdYWC6m2R1h'
+global.mashac = 'wa.me/584242773183*/n• *wa.me/51921826291*/n• *wa.me/50493732693*'
+global.repobot = 'https://github.com/Ado926'
 global.grupo = 'https://chat.whatsapp.com/E9j3js91NjYAYQvGW6Et2T'
 global.comu = 'https://chat.whatsapp.com/FHE84TFCPsvGxbZWT89o8j'
-global.channel = 'https://whatsapp.com/channel/0029VaQC2KoEquiMvsPDBH3Z'
-global.insta = 'https://www.instagram.com/tobi00698'
+global.channel = 'https://whatsapp.com/channel/0029VbAXuUtB4hdYWC6m2R1h'
+global.insta = 'https://www.instagram.com/notochXD'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫𝚃𝙴𝙰𝙼  乂 Kara✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '🦈【✫𝚃𝙴𝙰𝙼  乂 SYA ✫】🌵', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
