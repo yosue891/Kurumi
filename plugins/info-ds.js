@@ -33,7 +33,7 @@ conn.reply(m.chat, `🍂 *¡Hola! ¿logras verme?*`, m, rcanal, )
 }
 } catch (err) {
 console.error('Error al leer la carpeta o los archivos de sesión:', err)
-await conn.reply(m.chat, '[💙] *Hola Soy RemBot Sigue El Canal👑*', m, rcanal, )
+await conn.reply(m.chat, '[💙] *Hola Soy Zero Two Bot Sigue El Canal👑*', m, rcanal, )
 }
 
 }
