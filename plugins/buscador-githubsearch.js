@@ -75,6 +75,6 @@ ${userRepos}
 handler.help = ['githubsearch'];
 handler.tags = ['buscador'];
 handler.command = ['githubsearch'];
-handler.estrellas = 9;
+handler.estrellas = 0;
 
 export default handler;
