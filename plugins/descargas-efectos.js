@@ -54,7 +54,7 @@ handler.help = ['bass', 'blown', 'deep', 'earrape', 'fast', 'fat', 'nightcore', 
 handler.tags = ['descargas']
 handler.command = /^(bass|blown|deep|earrape|fas?t|nightcore|reverse|robot|slow|smooth|tupai|squirrel|chipmunk|reverb|chorus|flanger|distortion|pitch|highpass|lowpass|underwater)$/i
 handler.register = true 
-handler.estrellas = 6;
+handler.estrellas = 0;
 export default handler
 
 const getRandom = (ext) => {
