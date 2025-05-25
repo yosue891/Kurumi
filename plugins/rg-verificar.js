@@ -85,8 +85,8 @@ let userNationalityData = api.data.result;
     });
 }
 
-handler.help = ['rem']
+handler.help = ['reg']
 handler.tags = ['rg']
-handler.command = ['verify', 'verificar', 'rem', 'registrarse', 'registrar']
+handler.command = ['verify', 'verificar', 'reg', 'registrarse', 'registrar']
 
 export default handler
