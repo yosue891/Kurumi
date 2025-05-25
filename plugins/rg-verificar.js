@@ -99,7 +99,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         }
     }, { quoted: m })
 
-    let channelID = '120363387375075395@newsletter'
+    let channelID = '120363402846939411@newsletter'
     let messageContent = `◉ *Usuario:* ${m.pushName || 'Anónimo'}
 ◉ *País:* ${nationality}
 ◉ *Verificación:* ${user.name}
