@@ -34,9 +34,9 @@ user.stone += stone
 user.lastmiming = new Date * 1
 }
 
-handler.help = ['escarbar']
+handler.help = ['minar']
 handler.tags = ['rpg']
-handler.command = ['escarbar', 'miming', 'mine'] 
+handler.command = ['minar', 'miming', 'mine'] 
 handler.register = true 
 handler.group = true
 export default handler
