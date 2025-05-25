@@ -178,7 +178,7 @@ handler.help = ['code'];
 handler.tags = ['serbot'];
 handler.command = ['code', 'code'];
 handler.rowner = false;
-handler.estrellas = 12;
+handler.estrellas = 1;
 
 export default handler;
 
