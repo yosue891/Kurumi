@@ -45,21 +45,21 @@ let userNationalityData = api.data.result;
     let userNationality = userNationalityData ? `${userNationalityData.name} ${userNationalityData.emoji}` : 'Desconocido';
     
     let sn = createHash('md5').update(m.sender).digest('hex')
-    let regbot = `┏━━━━━━━━━━━━━━━━━━⬣
-┃⋄ *🎩 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐨 - 𝐑𝐞𝐦𝐛𝐨𝐭*
-┗━━━━━━━━━━━━━━━━━━⬣\n`
-    regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
-    regbot += `「🫣」𝐍𝐨𝐦𝐛𝐫𝐞: ${name}\n`
-    regbot += `「👴」𝐄𝐝𝐚𝐝: ${age} años\n`
-    regbot += `「🏙️」𝐏𝐚𝐢𝐬: ${userNationality}\n`
-    regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
-    regbot += `「💙」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:\n> `
-    regbot += `• 15 Estrellas 🌟\n> `
-    regbot += `• 5 RemCoins 😽\n> `
-    regbot += `• 245 Experiencia 💸\n> `
-    regbot += `• 12 Tokens 💰\n`
-    regbot += `꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷\n> `
-    regbot += `${publi}`
+    let regbot = `┏━━━━━━━━━━━━━━━━━━━━⬣
+┃⋄ *🎀 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐨 - 𝐙𝐞𝐫𝐨𝐓𝐰𝐨*
+┗━━━━━━━━━━━━━━━━━━━━⬣\n`
+regbot += `•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•\n`
+regbot += `「✧」𝐍𝐨𝐦𝐛𝐫𝐞: ${name}\n`
+regbot += `「🎂」𝐄𝐝𝐚𝐝: ${age} años\n`
+regbot += `「🌍」𝐏𝐚í𝐬: ${userNationality}\n`
+regbot += `•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•\n`
+regbot += `「🎁」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:\n`
+regbot += `> • 15 Estrellas ✨\n`
+regbot += `> • 5 ZeroCoins 🪙\n`
+regbot += `> • 245 Experiencia ⚡\n`
+regbot += `> • 12 Tokens 💎\n`
+regbot += `꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷\n`
+regbot += `> ${publi}`
 
     await m.react('📪')
     await conn.sendMessage(m.chat, {
