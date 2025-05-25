@@ -80,7 +80,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     const videoInfo = search.all[0];
     const { title, thumbnail, timestamp, views, ago, url } = videoInfo;
     const vistas = formatViews(views);
-    const infoMessage = `｡･ﾟﾟ♡ﾟ･｡🌸 𝙕𝙚𝙧𝙤 𝙏𝙬𝙤 𝘽𝙤𝙩 🌸｡･ﾟﾟ♡ﾟ･｡
+    const infoMessage = `｡♡ﾟ･🌸 𝙕𝙚𝙧𝙤 𝙏𝙬𝙤 𝘽𝙤𝙩 🌸｡♡ﾟ
 
 🍓 *Título:* ${title}
 ⏳ *Duración:* ${timestamp}
@@ -109,7 +109,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
 
     await conn.reply(m.chat, infoMessage, m, JT);
 
-    if (command === 'yta' || command === 'ytmp3') {
+    if (command === 'play' || command === 'ytmp3') {
         const api = await ddownr.download(url, 'mp3');
         const result = api.downloadUrl;
         await conn.sendMessage(m.chat, { audio: { url: result }, mimetype: "audio/mpeg" }, { quoted: m });
@@ -158,7 +158,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
 
 handler.command = handler.help = ['ytmp3', 'play'];
 handler.tags = ['descargas'];
-handler.estrellas = 6;
+handler.estrellas = 0;
 
 export default handler;
 
