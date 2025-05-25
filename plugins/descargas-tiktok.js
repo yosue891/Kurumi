@@ -57,7 +57,7 @@ m.react('🍁')
 };
 
 handler.command = ['tiktok2', 'ttk2', 'tt2'];
-handler.estrellas = 4;
+handler.estrellas = 0;
 handler.register = true;
 export default handler;
 
