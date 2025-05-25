@@ -50,7 +50,7 @@ global.done = '✅'
 global.error = '✖️'
 
 //Emojis determinado de CrowBot
-global.emoji = '😻'
+global.emoji = '🪷'
 global.emoji2 = '💙'
 global.emoji3 = '🐱'
 global.emoji4 = '👑'
@@ -64,11 +64,11 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮...*';
 
 //Enlaces
-var canal =   'https://whatsapp.com/channel/0029VaQC2KoEquiMvsPDBH3Z'
+var canal = 'https://whatsapp.com/channel/0029VbAXuUtB4hdYWC6m2R1h'
 var grupo = 'https://chat.whatsapp.com/E9j3js91NjYAYQvGW6Et2T'  
-var github = 'https://github.com/TOBI-12/Rem-bot' 
-var facebook = 'https://www.facebook.com/profile.php?id=100047980620670' 
-let instagram = 'https://www.instagram.com/KTHinataBot'
+var github = 'https://github.com/Ado926/RYw' 
+var facebook = 'https://www.facebook.com' 
+let instagram = 'https://www.instagram.com/KTNUCHINXD'
 
 global.redes = [canal, grupo, github, facebook, instagram].getRandom()
 
@@ -100,7 +100,7 @@ global.readMore = more.repeat(850)
 
 global.authsticker = `┊👑Bot\n┊↳${botname}\n\n┊👑Usuario\n┊↳ @${conn.getName(m.sender)}`;
 
-global.packsticker = `┊ 𝐓𝐨𝐛𝐢 𝐱 𝐊𝐚𝐫𝐚 𝐓𝐞𝐚𝐦\n↳https://github.com/TOBI-12\n\n┊ 👹Info:\n↳Wa.me/527421168105`
+global.packsticker = `┊ 𝐒𝐘𝐀 𝐓𝐞𝐚𝐦\n↳https://github.com/Ado926\n\n┊ 👹Info:\n↳Wa.me/50493732693`;
 
 //Fakes
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
