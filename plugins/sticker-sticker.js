@@ -39,7 +39,7 @@ else return m.reply(`💫 El url es incorrecto`)
 console.error(e)
 if (!stiker) stiker = e
 } finally {
-if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: '💙𝐑𝐞𝐦𝐛𝐨𝐭 - 𝐒𝐭𝐢𝐜𝐤𝐞𝐫💙', body: `Rem - Bot ${emojis}`, mediaType: 2, sourceUrl: grupo, thumbnail: icons}}}, { quoted: m })
+if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: '💗 Zero TWO - 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 💙', body: `Rem - Bot ${emojis}`, mediaType: 2, sourceUrl: grupo, thumbnail: icons}}}, { quoted: m })
 
 else return conn.reply(m.chat, `${emojis} *_La conversión ha fallado, intenta enviar primero imagen/video/gif y luego responde con el comando._*\n\n> ${emojis} ${publi} ${emojis}`, m, rcanal)
 
@@ -48,7 +48,7 @@ else return conn.reply(m.chat, `${emojis} *_La conversión ha fallado, intenta e
 handler.help = ['stiker <img>', 'sticker <url>']
 handler.tags = ['sticker']
 handler.command = ['s', 'sticker', 'stiker']
-handler.estrellas = 3;
+handler.estrellas = 0;
 
 export default handler
 
