@@ -24,7 +24,7 @@ let tags = {
   'logos': '【Logo】🎨',
 }
 
-const vid = ['https://qu.ax/AucJC.mp4']
+const vid = ['https://files.catbox.moe/m7nd3i.mp4']
 
 const defaultMenu = {
   before: `
