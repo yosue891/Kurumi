@@ -56,7 +56,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     let rcanal = {
         contextInfo: {
             externalAdReply: {
-                title: 'Nuevo usuario registrado',
+                title: '💋 Nuevo usuario registrado 💘',
                 body: 'ZeroTwo Bot',
                 mediaType: 1,
                 thumbnailUrl: 'https://files.catbox.moe/nnz4de.jpg',
@@ -99,15 +99,15 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         }
     }, { quoted: m })
 
-    let channelID = '120363402846939411@newsletter'
+    let channelID = '120363420311691356@g.us'
     let messageContent = `◉ *Usuario:* ${m.pushName || 'Anónimo'}
 ◉ *País:* ${nationality}
 ◉ *Verificación:* ${user.name}
 ◉ *Edad:* ${age} años
 ◉ *Número de serie:*\n⤷ ${sn}
 
-😽 *Recompensa:* 600 Zerocoins 😼
-*¡Bienvenido/a al bot!*`
+😽 *Recompensa:* 5 Zerocoins 😼
+*Bienvenido/a*`
 
     await conn.sendMessage(channelID, {
         text: messageContent, ...rcanal
