@@ -34,5 +34,5 @@ m.react(done);
 handler.help = ['google', 'googlef'].map((v) => v + ' <pencarian>');
 handler.tags = ['buscador'];
 handler.command = /^googlef?$/i;
-handler.estrellas = 7;
+handler.estrellas = 2;
 export default handler;
