@@ -39,6 +39,6 @@ const handler = async (m, { conn, command, args }) => {
 handler.help = ['lyrics'];
 handler.tag = ['buscador'];
 handler.command = ['lyrics', 'letrac'];
-handler.estrellas = 3;
+handler.estrellas = 0;
 
 export default handler;
