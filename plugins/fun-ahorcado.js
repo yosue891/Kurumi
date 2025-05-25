@@ -95,6 +95,6 @@ gam.delete(m.sender)
 handler.help = ['ahorcado']
 handler.tags = ['fun']
 handler.command = ['ahorcado']
-handler.estrellas = 4;
+handler.estrellas = 0;
 handler.register = true
 export default handler
