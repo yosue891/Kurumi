@@ -38,7 +38,7 @@ global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭�
 global.nombrebot = '𝐙𝐞𝐫𝐨𝐓𝐰𝐨'
 global.textbot = '༻𝐙𝐞𝐫𝐨 - 𝐓𝐰𝐨༺'
 global.vs = '2.1.0'
-global.publi = '> 🪵 𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥 👇'
+global.publi = '🪵 𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥 👇'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Set De Rem-Bot
 
