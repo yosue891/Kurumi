@@ -47,7 +47,7 @@ handler.help = ['fb *<link>*'];
 handler.estrellas = 2
 handler.tags = ['descargas']
 handler.command = /^(fb|facebook|fbdl)$/i;
-handler.estrellas = 8;
+handler.estrellas = 0;
 handler.register = true
 
 export default handler;
