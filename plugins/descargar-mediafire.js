@@ -58,7 +58,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
 handler.help = ['mediafire'].map((v) => v + ' <url>');
 handler.tags = ['descargas'];
 handler.command = /^(mediafire|mediafiredl|dlmediafire|mf)$/i;
-handler.estrellas = 8;
+handler.estrellas = 3;
 handler.premium = true;
 export default handler;
 
