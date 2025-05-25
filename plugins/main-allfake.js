@@ -112,7 +112,7 @@ global.canalNombreM = ["『 💠 𝗦𝗬𝗔 𝗧𝗘𝗔𝗠 💠 』× 𝒁�
 global.channelRD = await getRandomChannel()
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363319651994475@newsletter', newsletterName: "𝐓ꫀׁׅܻ݊ᥲm 𝐊ꫀ𝑟𝑎 x 𝐓𝑜𝑏𝑖", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363402846939411@newsletter', newsletterName: "⋆⬪࣪ꥈ▶★ ׄ ꒱ 𝐙𝐞𝐫𝐨𝐓𝐰𝐨 - 𝙎𝙔𝘼 ୭", serverMessageId: -1 }
 }}, { quoted: m }
   
 global.icono = [ 
@@ -139,7 +139,7 @@ canalName[Math.floor(Math.random() *
 canalName.length)];
 
  const canalId = [
-"120363319651994475@newsletter", "120363224371664828@newsletter"
+"120363402846939411@newsletter", "120363402846939411@newsletter"
 ].getRandom()
 
 const randomCanalId = canalId[Math.floor(Math.random() * canalId.length)];
