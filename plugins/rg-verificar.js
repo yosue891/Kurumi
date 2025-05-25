@@ -52,14 +52,14 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     }
 
     let sn = createHash('md5').update(m.sender).digest('hex')
-    let publi = 'https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30'
+    let publi = '☔'
     let rcanal = {
         contextInfo: {
             externalAdReply: {
                 title: 'Nuevo usuario registrado',
                 body: 'ZeroTwo Bot',
                 mediaType: 1,
-                thumbnailUrl: 'https://files.catbox.moe/ojsmx7.jpeg',
+                thumbnailUrl: 'https://files.catbox.moe/nnz4de.jpg',
                 sourceUrl: publi,
                 showAdAttribution: true,
                 renderLargerThumbnail: true
@@ -106,7 +106,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
 ◉ *Edad:* ${age} años
 ◉ *Número de serie:*\n⤷ ${sn}
 
-😽 *Recompensa:* 600 Remcoins 😼
+😽 *Recompensa:* 600 Zerocoins 😼
 *¡Bienvenido/a al bot!*`
 
     await conn.sendMessage(channelID, {
