@@ -17,5 +17,5 @@ m.reply(global.serbot, { quoted: fkontak });
 };
 handler.command = /^(comoserbot|serbotmetodo)$/i;
 handler.tags = ['main'];
-handler.help = ['comoserbot <covertirse en bot>'];
+handler.help = ['comoserbot <convertirse en bot>'];
 export default handler;
