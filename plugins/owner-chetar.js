@@ -1,12 +1,12 @@
 const handler = async (m, { conn }) => {
     const allowedNumber = '51921826291@s.whatsapp.net';
     
+    console.log('Número de quien envió:', m.sender); // Para debug
+    
     if (m.sender !== allowedNumber) {
-        // Opcional: enviar mensaje de acceso denegado
         return conn.sendMessage(m.chat, { text: 'No tienes permiso para usar este comando.' }, { quoted: m });
     }
 
-    const user = global.db.data.users[m.sender];
     conn.sendMessage(m.chat, { text: `🚩 *@${m.sender.split('@')[0]} Ahora tienes recursos ilimitados*`, mentions: [m.sender] }, { quoted: m });
     
     global.db.data.users[m.sender].money = Infinity;
