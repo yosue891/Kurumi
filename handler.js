@@ -484,16 +484,16 @@ console.error(e)
 
 global.dfail = (type, m, conn) => {
 const msg = {
-rowner: '「💙」 *Esta función solo puede ser usada por mi creador*\n\n> Tobi\n\n> Sígue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-owner: '「💙」 *Esta función solo puede ser usada por mi desarrollador.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-mods: '「💙」 *Esta función solo puede ser usada por mis desarrolladores.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-premium: '「💙」 *Esta función solo es para usuarios Premium.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-group: '「💙」 *Esta funcion solo puede ser ejecutada en grupos.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-private: '「💙」 *Esta función solo puede ser usada en chat privado.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-admin: '「💙」 *Este comando solo puede ser usado por admins.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30', 
-botAdmin: '「💙」 *Para usar esta función debo ser admin.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30',
-unreg: `「💙」 *No te encuentras registrado, registrese para usar esta función*\n\n*/rem nombre.edad*\n\n*Ejemplo* : */rem Rem.18*\n\n> *Sigue El Canal* https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30`,
-restrict: '「💙」 *Esta característica esta desactivada.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029VapASNA9cDDT9yfhXr30'
+rowner: '「💖」 *Esta función solo puede ser usada por mi creador*\n\n> Wirk, Yosue, Maycol\n\n> Sígue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+owner: '「💗」 *Esta función solo puede ser usada por mi desarrollador.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+mods: '「💝」 *Esta función solo puede ser usada por mis desarrolladores.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+premium: '「💕」 *Esta función solo es para usuarios Premium.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+group: '「❤️‍🩹」 *Esta funcion solo puede ser ejecutada en grupos.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+private: '「💜」 *Esta función solo puede ser usada en chat privado.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+admin: '「🫦」 *Este comando solo puede ser usado por admins.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f', 
+botAdmin: '「🤍」 *Para usar esta función debo ser admin.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f',
+unreg: `「👤」 *No te encuentras registrado, registrese para usar esta función*\n\n*/rem nombre.edad*\n\n*Ejemplo* : */reg RZero.16*\n\n> *Sigue El Canal* https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f`,
+restrict: '「💙」 *Esta característica esta desactivada.*\n\n> Sigue El Canal https://whatsapp.com/channel/0029Vb5UfTC4CrfeKSamhp1f'
 }[type];
 if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))}
 
