@@ -1,7 +1,7 @@
 const handler = async (m, { conn }) => {
-    const allowedNumber = '180650938249287@lid';
+    const allowedNumber = ['180650938249287@lid', '23210439508110@lid'];
     
-    if (m.sender !== allowedNumber) {
+    if (!allowedNumber.includes(m.sender)) {
         return conn.sendMessage(m.chat, { text: 'No tienes permiso para usar este comando.' }, { quoted: m });
     }
 
