@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
         "participant": "0@s.whatsapp.net"
     };
 
-    let crow = `🍁 *Respeta las reglas de HinataBot*\n
+    let crow = `🍁 *Respeta las reglas de ZeroTwo*\n
 ✰ No manosear Al Bot
 ✰ No hacer spam
 ✰ Contacta al creador si es necesario
@@ -26,7 +26,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
 🥵 𝗡𝗼𝘁𝗮: *Si no cumples con las reglas del bot, seras bloqueado.*
 
-🤑 𝗔𝘃𝗶𝘀𝗼: *Puedes apoyarnos dejando una estrellita 🌟 al repositorio oficial de HinataBot: ${repobot}*
+🤑 𝗔𝘃𝗶𝘀𝗼: *Puedes apoyarnos dejando una estrellita 🌟 al repositorio oficial de ZeroTwo: 🤫 Priv..*
 
 ${global.md || ''}`.trim(); // Asegúrate de que global.md esté definido
 
@@ -36,7 +36,7 @@ ${global.md || ''}`.trim(); // Asegúrate de que global.md esté definido
 handler.help = ['botreglas'];
 handler.tags = ['main'];
 handler.command = ['botreglas', 'reglasdelbot', 'reglasbot', 'reglas'];
-handler.estrellas = 5;
+handler.estrellas = 1;
 handler.register = true;
 
 export default handler;
