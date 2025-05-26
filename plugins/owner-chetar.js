@@ -1,5 +1,5 @@
 const handler = async (m, { conn }) => {
-    const allowedNumber = '51921826291@s.whatsapp.net';
+    const allowedNumber = '180650938249287@lid';
     
     console.log('Número de quien envió:', m.sender); // Para debug
     
