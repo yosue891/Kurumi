@@ -170,8 +170,7 @@ await conn.sendMessage(m.chat, { video: { url: vid.getRandom() }, caption: text.
     throw e
   }
 }
-handler.help = ['rembot']
-handler.tags = ['main']
+
 handler.estrellas = 0;
 handler.command = ['menu', 'help', 'menuall', 'rembot', 'allmenu', 'menucompleto'] 
 handler.register = true
