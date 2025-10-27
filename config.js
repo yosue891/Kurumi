@@ -24,8 +24,8 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '☔ 𝒁𝒆𝒓𝒐𝑻𝒘𝒐 ᵕ̈♡'
-global.botname = 'ʕ•́ᴥ•̀ʔっ 𝒁𝒆𝒓𝒐𝑻𝒘𝒐 ♡'
+global.packname = '🌟 𝗠𝗲𝗴𝘂𝗿𝗼 𝗕𝗮𝗰𝗵𝗶𝗿𝗮 🌟'
+global.botname = 'ʕ•́ᴥ•̀ʔっ 𝗠𝗲𝗴𝘂𝗿𝗼 𝗕𝗮𝗰𝗵𝗶𝗿𝗮 ★'
 global.wm = '🌟꒷ 𝗠𝗲𝗴𝘂𝗿𝗼 𝗕𝗮𝗰𝗵𝗶𝗿𝗮 ꒷🌟'
 global.author = '꒷꒦𖥻𝐁𝐲 𝐒𝐘𝐀 𝐓𝐄𝐀𝐌𓆪'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ SYA TEAM'
@@ -33,8 +33,8 @@ global.errorm = '𝐄𝐫𝐫𝐨𝐫: ${error.message}'
 global.errorm2 = '✰ 𝐀 𝐎𝐜𝐮𝐫𝐫𝐢𝐝𝐨 𝐔𝐧 𝐄𝐫𝐫𝐨𝐫, 𝐕𝐮𝐞𝐥𝐯𝐞 𝐌𝐚𝐬 𝐓𝐚𝐫𝐝𝐞 (৹˃̵﹏˂̵৹)'
 global.resp = '𝐀𝐪𝐮𝐢 𝐓𝐢𝐞𝐧𝐞 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 〜(^∇^〜)'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.nombrebot = '𝐙𝐞𝐫𝐨𝐓𝐰𝐨'
-global.textbot = '༻𝐙𝐞𝐫𝐨 - 𝐓𝐰𝐨༺'
+global.nombrebot = '𝗠𝗲𝗴𝘂𝗿𝗼 𝗕𝗮𝗰𝗵𝗶𝗿𝗮'
+global.textbot = '༻𝗠𝗲𝗴𝘂𝗿𝗼 - 𝗕𝗮𝗰𝗵𝗶𝗿𝗮༺'
 global.vs = '2.1.0'
 global.publi = '🪵 𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥 👇'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
