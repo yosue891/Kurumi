@@ -59,7 +59,7 @@ global.mashac = 'wa.me/584242773183*/n• *wa.me/51921826291*/n• *wa.me/504937
 global.repobot = 'https://github.com/Ado926'
 global.grupo = 'https://chat.whatsapp.com/E9j3js91NjYAYQvGW6Et2T'
 global.comu = 'https://chat.whatsapp.com/FHE84TFCPsvGxbZWT89o8j'
-global.channel = 'https://whatsapp.com/channel/0029VbAXuUtB4hdYWC6m2R1h'
+global.channel = 'https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W'
 global.insta = 'https://www.instagram.com/notochXD'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
