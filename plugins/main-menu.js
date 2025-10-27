@@ -41,9 +41,9 @@ const defaultMenu = {
 ╰━━━✦･ﾟ･✧━━━╯
 
 ╭━━━✦･ﾟ･✧━━━╮
-┃ 💕 𝙄𝙣𝙛𝙤 𝙐𝙨𝙪𝙖𝙧𝙞𝙤 💕
+┃ 🌟 𝙄𝙣𝙛𝙤 𝙐𝙨𝙪𝙖𝙧𝙞𝙤 🌟
 ┃ ──────────────
-┃ 💗 *Bot:* Zero Two
+┃ 🌟 *Bot:* Meguro Bachira
 ┃ 🔐 *Modo:* Privado VIP
 ┃ 💻 *Baileys:* Multi Device
 ┃ ⏳ *Tiempo Activa:* %muptime
@@ -52,7 +52,7 @@ const defaultMenu = {
 
 %readmore
 
-(๑˃ᴗ˂)ﻭ ¡Diviértete con Zero Two! 💖
+(๑˃ᴗ˂)ﻭ ¡Diviértete con Meguro Bachira! 🌟
 `,
 
   header: '┏━✦ 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗮: %category ━┓',
