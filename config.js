@@ -10,12 +10,10 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.owner = [
    ['58424773183', 'Creador Yosue💙', true],
-   ['156981591593126', 'Creador Wirk 🐊', true],
-   ['180650938249287', 'Creador Maycol 👻', true],
-]
+   ['156981591593126', 'Creador Mendoza OFC🐊', true]
 
 global.creadorbot = [
-   ['50493059810', 'Wirk', true],
+   ['573136379995', 'Mendoza', true],
 ]
   
 
