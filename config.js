@@ -57,9 +57,9 @@ global.crowurl = fs.readFileSync('./storage/img/crowurl.jpg')
 global.mashach = 'https://whatsapp.com/channel/0029VbAXuUtB4hdYWC6m2R1h'
 global.mashac = 'wa.me/584242773183*/n• *wa.me/51921826291*/n• *wa.me/50493732693*'
 global.repobot = 'https://github.com/Ado926'
-global.grupo = 'https://chat.whatsapp.com/E9j3js91NjYAYQvGW6Et2T'
+global.grupo = 'https://chat.whatsapp.com/Li5jmblUdZI1Ky3dxmWI0x?mode=wwt'
 global.comu = 'https://chat.whatsapp.com/FHE84TFCPsvGxbZWT89o8j'
-global.channel = 'https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W'
+global.channel = 'https://whatsapp.com/channel/0029Vb7SzJj9MF8xpQqp8D24'
 global.insta = 'https://www.instagram.com/notochXD'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
