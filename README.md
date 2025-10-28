@@ -36,8 +36,10 @@ Esta obra maestra fue posible gracias a la visión y el talento de:
 *⨷ nota este bot por ahora no es compatible con termux ni cluod Shell*
 
 ### **`🥀 𝙘𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨`**
-<a
-href="https://github.com/dvnmendoza123-gif"><img src="https://github.com/dvnmendoza123-gif" width="80" height="80" alt="dvnmendoza123-gif"/></a> <a
+
+<a href="https://github.com/dvnmendoza123-gif">
+  <img src="https://avatars.githubusercontent.com/u/236514542?v=4" width="80" height="80" alt="dvnmendoza123-gif"/>
+</a>
 
 ### ** `🌌𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 𝗠𝗲𝗴𝘂𝗿𝗼 𝗕𝗮𝗰𝗵𝗶𝗿𝗮🌌`**
 <a
